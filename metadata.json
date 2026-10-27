@@ -1,0 +1,6 @@
+{
+  "name": "EventMate - DYPCET Kolhapur",
+  "description": "Centralized departmental event management platform for D Y Patil College of Engineering and Technology, Kolhapur. Manage, organize, and maintain complete records of all events.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
